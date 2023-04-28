@@ -1,4 +1,4 @@
 cat\dgp\openshift\Individuo.class
+cat\dgp\openshift\IndividuoDao.class
 cat\dgp\openshift\TestMysqlApplication.class
 cat\dgp\openshift\Controlador.class
-cat\dgp\openshift\IndividuoDao.class

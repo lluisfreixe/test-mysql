@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: cat.dgp.openshift.TestMysqlApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.89 s - in cat.dgp.openshift.TestMysqlApplicationTests
